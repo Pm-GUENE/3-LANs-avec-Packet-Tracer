@@ -1,6 +1,8 @@
 #  3-LANs-sur-Packet-Tracer
 Configuration de 3 LANs avec services DHCP/DNS, Web et Messagerie sur Packet Tracer
 
+![3LANs](https://github.com/user-attachments/assets/feb77424-97aa-410e-b8ca-404ad838def8)
+
 Objectif : Configurer un réseau local avec trois VLANs distincts pour isoler les services et le trafic réseau. Chaque VLAN héberge un serveur dédié pour différents services :
 
 VLAN 1 (LAN1) : Serveur DHCP/DNS pour gérer l'adressage IP dynamique et la résolution DNS.
